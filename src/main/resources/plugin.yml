@@ -1,0 +1,5 @@
+name: WoolyHideJoinQuit
+version: 1.0
+main: com.server.hide.HideMessages
+api-version: 1.21
+description: Плагин для скрытия ванильных сообщений.
